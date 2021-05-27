@@ -96,8 +96,8 @@
   content: "★";
   color: red;
   background: none;
-  font-size: 4px;
-  line-height: 8px;
+  font-size: 14px;
+  line-height: 10px;
   z-index: 1;
   margin-right: 7px;
 }
